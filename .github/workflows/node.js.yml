@@ -26,6 +26,5 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - run: npm test
-    - echo: Start Build if tests pass
     - run: npm run build --if-present
     
