@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Learn React From Nugen It Service
+         Learn React From Nugen It Service By Varun Sharma
         </a>
       </header>
     </div>
